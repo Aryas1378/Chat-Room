@@ -6,6 +6,6 @@
 
 **open your browser and search for *localhost:5000***
 
-![Screenshot](pic1.png)
+![Screenshot](pic1.PNG)
 
-![Screenshot](pic2.png)
+![Screenshot](pic2.PNG)
